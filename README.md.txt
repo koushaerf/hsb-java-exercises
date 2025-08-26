@@ -81,6 +81,27 @@ Die Sammlung spiegelt meine Kenntnisse in **Java**, **OOP**, **Dateiverarbeitung
 - **Mein Gedanke:** Vereinfachte Version mit Fokus auf Synchronisation in Methoden.  
 
 ---
+###14. **Password Generator**
+   - Konsolen-/Dialoganwendung mit Swing (`JOptionPane`).
+   - Fragt den Benutzer nach einer Website und einer gewünschten Passwortlänge.
+   - Generiert ein Passwort aus Großbuchstaben, Kleinbuchstaben und Zahlen.
+   - Speichert Website und Passwort in der Datei `passwords.txt`.
+   - Lernaspekte:
+     - Benutzerinteraktion über Dialogfenster
+     - Zufallszahlengenerierung (`Random`)
+     - Datei-I/O (`FileWriter`, `BufferedWriter`)
+---
+###15. **Travel Management (OOP)**
+   - Projekt zur Verwaltung von Reisen.
+   - Klassen:
+     - `Reise`: Basisklasse mit Attributen wie Ziel, Preis, Dauer usw.
+     - `ReiseX`: Erweiterung/Spezialisierung einer Reise (z. B. besondere Angebotsform).
+     - `ReiseApp`: Hauptprogramm zum Erstellen und Verwalten von Reisen.
+   - Lernaspekte:
+     - Objektorientierte Modellierung mit mehreren Klassen
+     - Vererbung und Polymorphie
+     - Strukturierung einer kleinen Anwendung
+---
 
 ## Technologien
 - **Java SE** (Grundlagen, OOP, Collections, Threads)  
